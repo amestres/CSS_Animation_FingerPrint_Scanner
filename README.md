@@ -1,3 +1,3 @@
 Preview
 
-![CHEESE!](README_img/Hnet.com-image.gif)
+![CHEESE!](README_gif/Hnet.com-image.gif)
