@@ -1,4 +1,4 @@
 Preview
 
-![CHEESE!](img_ReadMe/loading.PNG)
+![CHEESE!](README_img/loading.PNG)
 
